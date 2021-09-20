@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class DBConnectionTester {
 
-    //this is a comment to check whether connecting to github works or not. Hope its succesfull.
+
     public static void main(String[] args) {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
