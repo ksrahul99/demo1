@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class DBConnectionTester {
 
-
+   //this is a comment ot see if the integration with github works.
     public static void main(String[] args) {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
